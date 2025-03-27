@@ -1,4 +1,4 @@
-Vous trouverez dans le dossier partie 1, les exemples de code utilisés pour écrire l'article "15 bonnes pratiques de code qui augmentent votre productivités partie 1"
+Vous trouverez dans le dossier partie 1, les exemples de code utilisés pour écrire l'article [15 bonnes pratiques de code qui augmentent votre productivités partie 1](https://www.linkedin.com/pulse/15-bonnes-pratiques-de-code-qui-augmentent-votre-productivit%C3%A9-phgke/)
 
 - [1. Suivez le comportement attendu](https://github.com/soma-smart/soma-rticles/blob/main/15_bonnes_pratiques_de_code_qui_augmentent_votre_productivite/partie_1/1_Suivez_le_comportement_attendu.md)
 - [2. Lire du code est plus compliqué que l'écrire](https://github.com/soma-smart/soma-rticles/blob/main/15_bonnes_pratiques_de_code_qui_augmentent_votre_productivite/partie_1/2_Lire_du_code_est_plus_complique_que_l'ecrire.md)
